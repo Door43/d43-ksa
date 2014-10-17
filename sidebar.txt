@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksa:home|Door43 (ksa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksa|d43-ksa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksa/archive/master.zip|d43-ksa.zip]]
+
+**Recent Changes**
+{{changes>ns = ksa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksa|Ethnologue data]]
+
